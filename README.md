@@ -6,10 +6,10 @@ I’m passionate about Full Stack Web Development and continuously improving my 
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Web Projects** and **practicing DSA**  
-- 💬 I enjoy exploring how technology can solve real-world problems  
-- 📫 Reach me at **jaykumarkale.pict@gmail.com**
-- ⚡ I believe in improving myself a little every day  
+-  I’m currently working on **Full Stack Web Projects** and **practicing DSA**  
+-  I enjoy exploring how technology can solve real-world problems  
+-  Reach me at **jaykumarkale.pict@gmail.com**
+-  I believe in improving myself a little every day  
 
 ---
 
