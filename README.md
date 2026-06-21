@@ -20,7 +20,7 @@ Focused on Full Stack Web Development and consistently strengthening my problem-
   <a href="https://www.linkedin.com/in/jaykumar-kale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/jaykumarkale" target="_blank">
+  <a href="https://www.codechef.com/users/jaykumar_kale" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/Jaykumar-Kale" target="_blank">
