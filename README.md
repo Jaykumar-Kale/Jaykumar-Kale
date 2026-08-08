@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaykumar Kale</h1>
 
 <h3 align="center">
-Third-year Information Technology Engineering undergraduate at Pune Institute of Computer Technology.  
+Final-year Information Technology Engineering undergraduate at Pune Institute of Computer Technology.  
 Focused on Full Stack Web Development and consistently strengthening my problem-solving skills in Data Structures and Algorithms.
 </h3>
 
